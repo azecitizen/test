@@ -1,0 +1,18 @@
+Git
+
+
+git --version afficher version soft
+
+utilisation
+
+pwd: voir dans quel dossier on est
+mkdir nom : creer dossier "nom"
+ls "nom": listing du dossier "nom"
+cd "nom" : aller dans "nom"
+
+config
+
+git config --global user.name "Hugo Ribeyron"
+git config --global user.email "ribeyronhugo@gmail.com"
+
+git status
